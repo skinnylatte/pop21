@@ -1,0 +1,13 @@
+---
+tags:
+    - indonesia
+    - links
+    - tech
+date: "2016-10-01T18:17:40Z"
+title: My article on Indonesia in Brink, last month
+url: /2016/10/my-article-on-indonesia-in-brink-last-month/
+description: "An article I wrote about the Indonesian middle class and tech"
+
+---
+
+I've started writing articles for Brink, a new media publication by the same people behind the Atlantic. My first piece is on [Tech’s Role in Reaching Indonesia’s Rising Middle Class](http://www.brinknews.com/asia/techs-role-in-reaching-indonesias-rising-middle-class).
