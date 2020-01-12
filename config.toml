@@ -1,8 +1,9 @@
-baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Pop20"
 theme = "hugo-ink"
-paginate = 10
+themesDir ="themes"
+paginate = 20
+rssLimit = 10
 copyright = "Popagandhi since 2000."
 
 # Static Dir
