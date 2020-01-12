@@ -1,3 +1,4 @@
+baseURL = "https://heuristic-kalam-c5e8c6.netlify.com"
 languageCode = "en-us"
 title = "Pop20"
 theme = "hugo-ink"
