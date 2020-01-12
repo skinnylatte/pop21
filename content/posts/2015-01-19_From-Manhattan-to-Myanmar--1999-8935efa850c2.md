@@ -2,7 +2,7 @@
 title: 'From Manhattan to Myanmar, 1999'
 description: 'Exploring the inside story of Myanmar's news/tech man, Thaung Su Nyein'
 date: '2015-01-19T12:29:27.358Z'
-travel:
+tags:
     - travel
     - myanmar
     - profile
