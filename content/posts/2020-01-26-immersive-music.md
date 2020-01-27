@@ -13,11 +13,9 @@ url: /2020/01/21/envelopsf
 ---
 When we first moved to San Francisco, I was excited to have a new environment but I was not sure I would enjoy the city as much. My previous visits to the city had been mostly work/tech related. While I love many of my co-workers and friends in big tech and in startups, parts of San Francisco felt.. like a tech mono-culture. 
 
-I've often said moving here with my wife has helped me see a different side to this town. But that's a story for another day.
-
 Consciously going out to *things* and meeting new people, making friends with people who have interests *outside* of tech, through sports, volunteering or music activities, has changed my relationship to this city. 
 
-In this series of posts, I will write about the events, venues and activities I think are unique to San Francisco. 
+In this series of posts, I will write about the events, venues and activities I have enjoyed in San Francisco. 
 
 ---
 Music used to be a huge part of my life. From the time I was six or seven, I was in band practice or piano lessons a few times a week. Without music, my life might have turned out different. I've spent the last 3 months working on getting music back into my life. Piano lessons, jazz clarinet lessons, going to shows, meeting new friends who also like music... I have enjoyed the access to top musicians and teachers, and to excellent shows of all genres nearly every single day.
