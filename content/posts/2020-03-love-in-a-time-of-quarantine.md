@@ -1,8 +1,8 @@
 ---
-title: "2020 03 Love in a Time of Quarantine"
+title: "Love in a Time of Quarantine"
 date: 2020-03-17T19:09:24-07:00
 draft: false
-description: 
+description: These unprecedented times. 
 tags: 
     - life
     - covid19
