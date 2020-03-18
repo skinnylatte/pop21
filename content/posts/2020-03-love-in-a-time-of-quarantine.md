@@ -1,7 +1,7 @@
 ---
 title: "2020 03 Love in a Time of Quarantine"
 date: 2020-03-17T19:09:24-07:00
-draft: true
+draft: false
 description: 
 tags: 
     - life
