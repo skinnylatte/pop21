@@ -2,7 +2,7 @@
 title: "We Got Married"
 date: 2020-06-12T19:09:25-07:00
 draft: false
-description: n August 2018, we got married in Auckland and moved to San Francisco a few weeks after. To say that was a whirlwind might be under-stating it.
+description: In August 2018, we got married in Auckland and moved to San Francisco a few weeks after. To say that was a whirlwind might be under-stating it.
 tags: 
     - life
     - covid19
