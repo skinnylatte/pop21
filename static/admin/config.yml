@@ -17,7 +17,7 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list", default: "life",
-          field: {label: "Tag", name: "life", widget: "string"}
-          field: {label: "Tag", name: "love", widget: "string"}
-          field: {label: "Tag", name: "travel", widget: "string"}
+          field: {label: "Tag", name: "life", widget: "string"},
+          field: {label: "Tag", name: "love", widget: "string"},
+          field: {label: "Tag", name: "travel", widget: "string"},
           }
