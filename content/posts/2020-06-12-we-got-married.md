@@ -1,18 +1,19 @@
 ---
-title: "We Got Married"
+title: We Got Married
 date: 2020-06-12T19:09:25-07:00
 draft: false
-description: n August 2018, we got married in Auckland and moved to San Francisco a few weeks after. To say that was a whirlwind might be under-stating it.
-tags: 
-    - life
-    - covid19
-    - coronavirus
-    - family
-    - love
-    - pets
-    - quarantinediaries
+description: In August 2018, we got married in Auckland and moved to San
+  Francisco a few weeks after. To say that was a whirlwind might be
+  under-stating it.
+tags:
+  - life
+  - covid19
+  - coronavirus
+  - family
+  - love
+  - pets
+  - quarantinediaries
 url: /2020/06/12/we-got-married
-
 ---
 
 If you are a queer person in Asia, like I was, moving away and starting a family might be top of mind as something you should do. To be fair, I did not feel extremely oppressed, I did not often face homophobia, and I generally felt like I could do whatever I wanted to do as a queer person in Asia. For a long time, that was fine.
