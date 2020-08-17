@@ -12,6 +12,8 @@ tags:
   - travel
   - life
 ---
+*On Twitter, where I live, I [posted snippets of the things I have done](https://twitter.com/skinnylatte/status/1294501632613314560), the places I have been, the places I have gone. Where they might have felt jumbled up and messy on a blog or Facebook post, the Twitter thread / tweetstorm format seemed to be a natural home for my adventures. I am grateful for the mess that my early adulthood sometimes felt like.*
+
 ### One
 
 Growing up in Singapore, my future felt as small as the country of my birth.
