@@ -43,7 +43,7 @@ Wandering every story (*floor*) of Sim Lim Tower, looking at batteries, wires, c
 
 Memories are a leaky, unprofitable thing.
 
-![Sim Lim Tower, a building in Singapore](/img/202008-singapore-2.jpg,"Sim Lim Tower, a buliding in Singapore")
+![Sim Lim Tower, a building in Singapore](/img/202008-singapore-2.jpg "Sim Lim Tower, a building in Singapore")
 
 **Jalan Besar, Singapore. 2019. Wholesale electronics and late night food.**
 
