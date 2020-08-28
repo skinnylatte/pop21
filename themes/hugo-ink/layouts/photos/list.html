@@ -13,21 +13,20 @@
 		{{ end }}
 
 		<ul class="posts flat">
-			{{ range first 1 .Data.Pages }}
+			{{ range first 12 .Data.Pages }}
 				{{ if ne .Section "photos" }}
 			{{- else -}}
 			<li class="post">
 				<div class="post-header">
-					<div class="meta">
-						<div class="date">
-							<span class="day">{{ dateFormat "02" .Date }}</span>
-							<span class="rest">{{ if $.Site.Data.month }}{{ index $.Site.Data.month (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ else }}{{ dateFormat "Jan 2006" .Date }}{{ end }}</span>
-						</div>
-					</div>
+
 					<div class="matter">
 						<h4 class="title small">
 							<a href="{{ .RelPermalink }}">{{.Title}}{{ if .Draft }}<sup class="draft-label">DRAFT</sup>{{ end }}</a>
 						</h4>
+						{{ with .Resources.GetMatch (.Params.featured_image) }}
+						{{ $image := .Fill "600x400" }}
+						<span class="photoindex"><a href="{{ .RelPermalink }}"><img src="{{ $image.Permalink }}"></a></span>
+						{{ end }}
 						<span class="description">
 							{{ if isset .Params "description" }}
 								{{ .Description }}
@@ -36,16 +35,15 @@
 							{{ else }}
 								{{ .RawContent }}
 							{{ end }}
+							{{ end }}
 						</span>
 					</div>
 				</div>
 			</li>
-			{{- end -}}
 			{{- end -}}
 		</ul>
 	</div>
 
 	{{ partial "footer.html" . }}
 </body>
-
 </html>

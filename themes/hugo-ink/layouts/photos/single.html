@@ -19,7 +19,11 @@
 					<h1 class="title">{{ .Title }}</h1>
 				</div>
 			</div>
-					
+			
+			<div class="photosingle">
+				{{ with .Params.featured_image }}<img src="{{ . }}">{{ end }}
+			</div>
+
 			<div class="markdown">
 				{{ .Content }}
 			</div>
