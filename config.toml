@@ -34,7 +34,6 @@ name = "Photo Diary"
 url = "/photos"
 weight = 4
 
-
 [[menu.main]]
 name = "Tags"
 url = "/tags"
