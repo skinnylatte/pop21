@@ -13,8 +13,8 @@
 		{{ end }}
 
 		<ul class="posts flat">
-			{{- range .Data.Pages -}}
-			{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
+			{{ range first 1 .Data.Pages }}
+				{{ if ne .Section "photos" }}
 			{{- else -}}
 			<li class="post">
 				<div class="post-header">
