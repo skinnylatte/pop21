@@ -13,8 +13,12 @@
 		{{ end }}
 
 		<ul class="posts flat">
-			{{ range first 12 .Data.Pages }}
-				{{ if ne .Section "photos" }}
+			{{ range (.Paginator 5).Pages }}				{{ if ne .Section "photos" }}
+				{{ $pagi := .Paginate (where .Data.Pages "Section" "!=" "photos") 5 }}
+				{{ range $pagi.Pages }}...{{ end }}
+{{ range $pagi.Pagers }}
+  <a href='{{ .URL | absLangURL }}'>{{ .PageNumber }}</a>
+{{ end }}
 			{{- else -}}
 			<li class="post">
 				<div class="post-header">
@@ -42,6 +46,8 @@
 			</li>
 			{{- end -}}
 		</ul>
+		{{ template "partials/paginator.html" . }}
+
 	</div>
 
 	{{ partial "footer.html" . }}
