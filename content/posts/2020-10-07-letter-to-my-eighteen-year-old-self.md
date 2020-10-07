@@ -20,7 +20,7 @@ When I was eighteen I felt like I was at a crossroads. "Am I bi? Am I gay? Am I.
 
 And so on and on it went.
 
-Eventually, I did find out: I **am** lesbian. I am a dyke. I will die on the hill of women-smells and women-sweat forever. I think I found that out when a man asked me to go to IKEA to pick out furniture with him. I told him he was really hot but, I had would never go to IKEA with him, or with any man, now and always. It felt far more intimate than whatever we had gotten up to. I don't like man-sweat. 
+Eventually, I did find out: I **am** lesbian. I am a dyke. I will die on the hill of women-smells and women-sweat forever. I think I found that out when a man asked me to go to IKEA to pick out furniture with him. I told him he was really hot but, I would never go to IKEA with him, or with any man, now and always. It felt far more intimate than whatever we had gotten up to. I don't like man-sweat. 
 
 Even with that clarity behind me, I still had no clue what the hell I was supposed to do with that information. I lived in Singapore; I had gone abroad. I had flirted with the idea of going somewhere else. Nothing seemed clear. That sort of clarity, about what I would do and how I would do it, would only come later. (Again, that moment struck me like a thunderbolt, out of nowhere. It just did, and I don't know when it did.)
 
