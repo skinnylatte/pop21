@@ -40,7 +40,7 @@ Who knew that would have solved all my problems?
 
 From there, we went: Yishun, to Bali, to Bandung, to Kuala Lumpur, to Jakarta and then to San Francisco. 
 
-Our love here is exciting for the most part. It is also mundane in some ways. Gone are the days when I would stay up till 4 in the morning, excitedly watching soccer or drinking tea or poisoning my body and my brain in some other way. Instead, I run, skip, walk for miles in the beautiful city with my dog, and sleep ten hours a day. It helps.
+Our love (and life) here is exciting for the most part. It is also mundane in some ways. Gone are the days when I would stay up till 4 in the morning, excitedly watching soccer or drinking tea or poisoning my body and my brain in some other way. Instead, I run, skip, walk for miles in the beautiful city with my dog, and sleep ten hours a day. It helps.
 
 It also helps, I think, that I finally have a job where my interests (doing good things that help people) with my skills (product management and mucking around with software generally) intersect. It truly makes a difference.
 
