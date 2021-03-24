@@ -1,9 +1,11 @@
 ---
 title: "About"
-date: 2021-03-24T11:58:07-08:00
+date: 2021-03-23T11:58:07-08:00
 type: "page"
 url: "about"
 ---
+
+### About
 
 Hi, my name is Adrianna. I am a tinkerer / product manager / former founder / professional worrier who has been building things on the web for the past 21 years. In 2003, I launched Popagandhi, a blog (_blawggggg_... still a weird word after all these years) and it, as well as I, have taken on many iterations through many different lives since.
 
