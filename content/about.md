@@ -1,26 +1,20 @@
 ---
 title: "About"
-date: 2020-01-10T14:34:07-08:00
+date: 2021-03-24T11:58:07-08:00
 type: "page"
 draft: false 
 ---
 
-Hi, welcome to my personal blog.
+Hi, my name is Adrianna. I am a tinkerer / product manager / former founder / professional worrier who has been building things on the web for the past 21 years. In 2003, I launched Popagandhi, a blog (_blawggggg_... still a weird word after all these years) and it, as well as I, have taken on many iterations through many different lives since.
 
-I quite enjoyed typing those words. For the last decade or so, I have scattered content all over the web. Facebook, Twitter, Medium, other blogs in other places. 
+From high school student coming out of the closet in turn-of-the-millennia Singapore, to a young queer person fumbling her way through the world, this site has been with me through all of it.
 
-As part of my social media diet (mostly a quit-Facebook-they-are-an-evil-empire diet), I started to write the old-fashioned way again: plain text. I am probably okay if nobody is reading it anymore. No, I will not start a podcast or newsletter.
+Over the past few years, my professional interests have turned towards the origins of the technology that I fell in love with then; and how far we are from those days. I no longer want to participate in (most of) the social web. I no longer want to a product for companies like Facebook, which I once admired, but now abhor.
 
-So much has changed.
+I think there is still room for the open web. There are no trackers, no analytics, no pixel-tracking, no heatmapping, no ads, no comments, nothing. I don't care how many people still read blogs. I enjoy remembering to come here some days, and sometimes clicking _publish_.
 
-For one, I am married! I live in San Francisco now with my wife, Sabrena. We have a dog and a cat and we are really the picture perfect stereotype of a "couple from California". 
+Lately, I have been preoccupied with thinking about the world in the Before Times. I feel like I saw a lot of it, and didn't write enough about it. That's what posts like my [ten-year-late travelogues](/posts/2021-03-12-travelogues-ten-years-on/) hope to do. After several yeras in the United States, my sense of self has also begun to evolve. Living in America through this generation's yellow peril (beginning with COVID-19) disease is [starting to hit close to home](posts/2021-03-19-intersectional-grieving/).
 
-I also have a job. I suppose, for the first time. My startup days are over, and I work for the city of San Francisco. If you are looking to break into civic tech, and do tech work that makes a difference, have a look at [my team](https://digitalservices.sfgov.org/).
+From time to time, I take [photos](/photos). Like when it's an [especially odd day](/posts/2020-09-09-the-day-the-sky-turned-orange/).
 
-What will I write here? Who knows.
-
-Lately, I have been re-discovering old passions, and picking up new ones. 
-
-Music is now a part of my life, again. As is photography. I haven't been too good at writing anything other than tweetstorms lately, but maybe having this platform again will help.
-
-Popagandhi at 17; Adrianna in her mid-30s. Things are slower, gentler, possibly happier. I am excited about my brand new, old, plain text world.
+Even though I'm on [Twitter](https://twitter.com/skinnylatte) most of the day, sometimes I'll just be here, writing in plain text, like it's 2003 all over again.
