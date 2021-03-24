@@ -13,8 +13,8 @@ Over the past few years, my professional interests have turned towards the origi
 
 I think there is still room for the open web. There are no trackers, no analytics, no pixel-tracking, no heatmapping, no ads, no comments, nothing. I don't care how many people still read blogs. I enjoy remembering to come here some days, and sometimes clicking _publish_.
 
-Lately, I have been preoccupied with thinking about the world in the Before Times. I feel like I saw a lot of it, and didn't write enough about it. That's what posts like my [ten-year-late travelogues](/posts/2021-03-12-travelogues-ten-years-on/) hope to do. After several yeras in the United States, my sense of self has also begun to evolve. Living in America through this generation's yellow peril (beginning with COVID-19) disease is [starting to hit close to home](posts/2021-03-19-intersectional-grieving/).
+Lately, I have been preoccupied with thinking about the world in the Before Times. I feel like I saw a lot of it, and didn't write enough about it. That's what posts like my [ten-year-late travelogues](https://popagandhi.com/posts/2021-03-12-travelogues-ten-years-on/) hope to do. After several years in the United States, my sense of self has also begun to evolve. Living in America through this generation's yellow peril (beginning with COVID-19) disease is [starting to hit close to home](https.popagandhi.com/posts/2021-03-19-intersectional-grieving/).
 
-From time to time, I take [photos](/photos). Like when it's an [especially odd day](/posts/2020-09-09-the-day-the-sky-turned-orange/).
+From time to time, I take [photos](https://popagandhi.com/photos). Like when it's an [especially odd day](https://popagandhi.com/posts/2020-09-09-the-day-the-sky-turned-orange/).
 
 Even though I'm on [Twitter](https://twitter.com/skinnylatte) most of the day, sometimes I'll just be here, writing in plain text, like it's 2003 all over again.
