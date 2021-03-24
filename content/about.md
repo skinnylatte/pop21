@@ -5,8 +5,6 @@ type: "page"
 draft: false 
 ---
 
-### blahblahblah
-
 Hi, welcome to my personal blog.
 
 I quite enjoyed typing those words. For the last decade or so, I have scattered content all over the web. Facebook, Twitter, Medium, other blogs in other places. 
