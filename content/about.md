@@ -1,5 +1,5 @@
 ---
-title: "this is a test"
+title: "About"
 date: 2020-01-10T14:34:07-08:00
 type: "page"
 draft: false 
