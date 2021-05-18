@@ -13,7 +13,6 @@ tags:
   - cooking
   - data
   - google
-  - ""
 ---
 Talk about great timing. Three days into our 14 day quarantine in Singapore, that got [extended to 21](https://www.moh.gov.sg/news-highlights/details/updates-on-local-situation-border-measures-and-shift-to-heightened-alert-to-minimise-transmission_4May2021). I found plenty of things to do.
 
