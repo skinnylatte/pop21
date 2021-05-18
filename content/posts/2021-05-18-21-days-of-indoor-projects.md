@@ -24,7 +24,7 @@ Talk about great timing. Three days into our 14 day quarantine in Singapore, tha
 
 Most often, we made soft-boiled eggs and I've developed a fairly robust recipe for it. I used to make it at home on the stove, but found that with some adjustments it worked out well in the electric multi-pot as well.
 
-## How to make soft-boiled eggs with hotel equipment
+### How to make soft-boiled eggs in a hotel
 
 You'll need a kettle, and a vessel that holds heat well that has a cover. Or just a travel-sized multi-pot.
 
@@ -35,7 +35,7 @@ You'll need a kettle, and a vessel that holds heat well that has a cover. Or jus
 5. At 8 minutes: add fresh boiling water to the multi-pot 
 6. Set a timer for 4 minutes
 7. After 12-13 minutes in total, take out all the eggs and put them in a bowl. Cover with tap water
-8. Crack each one individually. If they are still too runny, put the rest back in the multi-pot for an additional minute or so
+8. Crack each one. If they are still too runny, put the rest back in the multi-pot for an additional minute or so
 
 You're basically trying to keep the water temperature at around 165F / 75C that whole time. This takes a bit of trial and error. It really depends on the size of the eggs. And your pot!
 
@@ -43,7 +43,7 @@ You're basically trying to keep the water temperature at around 165F / 75C that 
 
 ### High speed media server
 
-Even though I already have a home-based Usenet media server, I was unhappy with the i3 CPU and slow Internet speeds from its data center. I decided to switch my entire setup, prioritizing uplink speeds. I picked a data center that was promising 20Gbit/s speeds. I moved all of my services over to it within the afternoon and was happy with the performance. I'm a fan of the [*arrs](https://wiki.servarr.com/Main_Page) services for automation and organization. 
+Even though I already have a home-based Usenet media server, I was unhappy with the i3 CPU and slow Internet speeds from its data center. I decided to switch my entire setup, prioritizing uplink speeds. I picked a data center that was promising 20Gbit/s speeds. I moved all of my services over to it within the afternoon and was happy with the performance. I'm a fan of the [-arrs](https://wiki.servarr.com/Main_Page) services for automation and organization. 
 
 ### Chromecast in hotel networks
 
@@ -69,7 +69,7 @@ My main priority is to move all my files from legacy clouds (mainly, the several
 
 Using rclone, I've managed to send all of the data from different drives into my server, where I then dedupe files using [rmlint](https://rmlint.readthedocs.io/en/latest/index.html). 
 
-I now plan to setup [seafile](https://www.seafile.com) and use that as my personal cloud, accessing these files on *files.mydomain.com* using the built-in reverse proxy features from the [swag Docker container[(https://docs.linuxserver.io/general/swag#ombi-subdomain-reverse-proxy-example).
+I now plan to setup [seafile](https://www.seafile.com) and use that as my personal cloud, accessing these files on *files.mydomain.com* using the built-in reverse proxy features from the [swag Docker container](https://docs.linuxserver.io/general/swag#ombi-subdomain-reverse-proxy-example).
 
 ### Photo liberation
 
