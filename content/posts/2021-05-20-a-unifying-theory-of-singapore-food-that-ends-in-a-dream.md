@@ -25,7 +25,7 @@ tags:
 
 6. Gula Melaka (obviously not Singapore food, but used extensively in Singapore) is god tier and will become the next big thing in global pastries and dessert, especially in sweet/salty applications like salted caramel. 
 
-7. One of the best aspects of food in Singapore is that many of the world's top food brands already, or will soon, have an output here. Some better than others. 
+7. One of the best aspects of food in Singapore is that many of the world's top food brands already, or will soon, have an outpost here. Some better than others. 
 
 8. The breadth of vegan and meat alternatives in Singapore currently is breathtaking. It's certainly changed in this department since I left home. While I'm not vegan, and likely will never be, I appreciate the options that are available. While one might need to go to a midrange restaurant in San Francisco to have Impossible burgers, there are Impossible burgers in convenience stores here. There are vegan options in a lot of local food now, a lot more than I remember. Pretty much every major plant-based or meat alternative or lab grown company is here with a product out on the market. Way more than in the US. And all in one tiny city. I'm excited to try the vegan sashimi that I just saw, and the vat-grown chicken. This is definitely related to the next section on 'how come I can get all of my favorite food in one city now?'
 
