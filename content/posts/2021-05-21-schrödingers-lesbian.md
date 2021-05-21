@@ -9,7 +9,7 @@ tags:
   - lesbian
   - singapore
   - marriage
-url: /posts/2021-05-21-schrodingers-lesbian/
+url: posts/2021-05-21-schrodingers-lesbian/
 ---
 In 2018 I decided to leave my home country of Singapore even though I once thought I would lead my queer adult life here because it was [not a bad one](https://popagandhi.com/2013/08/the-one-about-having-it-all/). I decided to leave because I had met the woman I would marry, and there was simply no path for us to lead the sort of life we wanted in both of our home countries.
 
