@@ -1,6 +1,6 @@
 ---
 title: "Homecoming"
-date: 2021-05-22T12:34:07-08:00
+date: 2021-05-21T12:34:07-08:00
 type: "photos"
 draft: false 
 featured_image: "changiairport.jpg"
