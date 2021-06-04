@@ -13,7 +13,7 @@ tags:
   - humor
   - travel
 ---
-![Photo of a task list written by a girl in Jharkhand](img/jharkhandtasklist.jpg "Jharkhand task list photo")
+![Photo of a task list written by a girl in Jharkhand](https://popagandhi.com/img/jharkhandtasklist.jpg "Jharkhand task list photo")
 
 Some of you may know that I have spent the last 9 years or so [working to support children's education in Jharkhand, India](https://gyanada.org). In better times I visit them 2-3x a year. I want to share something that stuck with me the last time I went: one of the girls we work with showed us their daily schedule.
 
