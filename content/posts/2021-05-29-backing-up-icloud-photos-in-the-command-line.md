@@ -53,8 +53,6 @@ Note: if you have 2FA enabled, you will most likely have to re-authenticate ever
 
 I got tens of thousands of photos as expected. The tool shows you a nice little progress bar with basic information. It ran for several hours (around 5 or 6?) but it really depends on your connection speeds. You can turn off video downloads by using the `--skip-videos` option. You can also have it email you when it's done by using the various smtp options, but I did not want to bother with that.
 
-You can also have the tool auto delete your photos as it grabs it from iCloud, with tue `--auto-delete` option.
-
 ### Running icloudpd as a cron script
 
 The next step in my workflow will be to run this as a cron script. It looks [straightforward enough](https://github.com/icloud-photos-downloader/icloud_photos_downloader#cron-task).
