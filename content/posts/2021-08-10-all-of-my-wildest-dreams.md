@@ -32,7 +32,7 @@ Now that I live in California I have access to tremendously beautiful landscapes
 
 I joined a local adventure club that organizes trips and activities and was quickly put into a carpool with one of the organizers. While I didn't know anyone from the trip, we did a Zoom call to say hello and discuss logistics.
 
-The plan was for us to meet at Bear Valley Vistor Centerin Point Reyes on Friday afternoon at noon. The drive from San Francisco's Marina district took just over 90 minutes, with a last minute Sports Basement Presidio scramble for camping lights and other forgotten items.
+The plan was for us to meet at Bear Valley Vistor Center in Point Reyes on Friday afternoon at noon. The drive from San Francisco's Marina district took just over 90 minutes, with a last minute Sports Basement Presidio scramble for camping lights and other forgotten items.
 
 We met the other folks at the visitor center, 12 of us in all, where we enjoyed our last moments of Internet and restroom access. 
 
