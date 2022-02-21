@@ -1,6 +1,6 @@
 baseURL = "https://popagandhi.com/"
 languageCode = "en-us"
-title = "Pop21"
+title = "Pop22"
 theme = "hugo-ink"
 themesDir ="themes"
 paginate = 20
