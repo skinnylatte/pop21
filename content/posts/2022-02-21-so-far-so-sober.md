@@ -28,11 +28,11 @@ I drank, because it was expected of me, for a time. To get along with the boys i
 
 As I got older, my body could not metabolize the alcohol. Hangovers felt worse. I felt sluggish. Even though the peats of whisky and the hops of craft beer are still things that I love, the drinking lifestyle is completely over for me.
 
-After I moved to San Francisco, I found that the party was over. The San Francisco of free beers at work and boozy networking events that I saw and loved when I first visited in 2012 was not the San Francisco of tamer stuff. Maybe the party moved to Miami. Maybe we all got older and collectively decided to do something else with our lives. Maybe returning as an adult in my 30s with a wife and family made me see that there was more to life than black-out stupor every weekend. 
+After I moved to San Francisco, I found that the party was over. The San Francisco of free beers at work and boozy networking events that I saw and loved when I first visited in 2012 was not the San Francisco of tamer stuff, the one that I know and love today. Maybe the party moved to Miami. Maybe we all got older and collectively decided to do something else with our lives. Maybe returning as an adult in my 30s with a wife and family made me see that there was more to life than black-out stupor every weekend. 
 
 I was also tired of being sick. 
 
-A decade plus of round the clock hustle. Startup myths floating through every part of my brain and my soul. Fueled by a lot of craft whisky and Scotch. Coffee the rest of the day. At some point, that party had to stop.
+A decade plus of round the clock hustle. Startup myths floating through every part of my brain and my soul. Fueled by a lot of craft beer and gin and Scotch. Coffee the rest of the day. At some point, that party had to stop.
 
 I was very sick for a very long time. Not specifically because of alcohol, but it can’t have helped. Autoimmune disease hit me like a truck. I had all of the things: I was a woman, I was getting older, I didn’t sleep much (because hustle culture says to sleep only when you’re dead), every city in the world from Singapore to San Francisco to Seoul was starting to meld together. Every city felt the same. My life was the same. Work. Alcohol. Raise funds. Build things. Do it all over again, thinking you’re a baller, but something had to give.
 
