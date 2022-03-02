@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 type: "photos"
-draft: true
+draft: false
 description: 
 featured_image: "photoname.jpg"
 
