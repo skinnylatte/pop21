@@ -4,8 +4,6 @@ date: {{ .Date }}
 type: "photos"
 draft: true
 description: 
-tags: 
-    - life
-    - tagone
-    - tagtwo
+featured_image: "photoname.jpg"
+
 ---
