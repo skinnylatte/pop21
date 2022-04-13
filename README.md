@@ -1,4 +1,4 @@
-# pop22
+# popagandhi.com
 popagandhi on hugo and netlify
 
 ### About
