@@ -34,7 +34,7 @@ If you have a device you can always keep 'on', such as an old laptop or desktop,
 
 2. I log in using my GitHub account (though you can also use your Google account). Tailscale will authenticate you and you should see the name of that device
 
-3. [Make the device you can to route traffic through an exit node](https://tailscale.com/kb/1103/exit-nodes/)
+3. [Make the device you just set up route traffic through an exit node](https://tailscale.com/kb/1103/exit-nodes/)
 
 4. Go to [Tailscale admin console](https://login.tailscale.com/admin/machines), pick the machine that says Exit Node, click the three dots and make sure 'Use as exit node' is enabled
 
