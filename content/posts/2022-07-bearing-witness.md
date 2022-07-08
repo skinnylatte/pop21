@@ -44,3 +44,5 @@ That's why I think it would be radical for an individual to build community wher
 I want to bear witness, by writing about the world, particularly about the injustice that authoritarianism and religious fascism is going to cause in the US, in India and in Singapore. But I also want to reduce suffering and cause no harm. That's what my new commitment to Buddhism is helping me understand: every world at every moment in time is endless suffering. The most radical act you can do is to know that you are empowered. Sometimes that means you can help chip away at removing the causes of suffering; but most times, just knowing that you have the power to name and note an injustice is more power than the abusers want you to have. 
 
 Right this moment, by writing this, I am committing myself to the work of leaving a better world than the one I existed in. 
+
+Figuring out how exactly I'm going to do that is part of the work.
