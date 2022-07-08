@@ -1,6 +1,6 @@
 ---
 title: "It's Not Enough to Bear Witness"
-date: 2022-06-06T15:09:57-07:00
+date: 2022-07-06T15:09:57-07:00
 draft: false
 description: Some sobering thoughts about the future of the United States, and how I hope to deal with the mess.
 tags: 
