@@ -66,7 +66,7 @@ I was able to keep all my blog content because I always had text files and never
 
 #### It's too complicated
 
-Yes, I agree. Read [fedi.tips](https://fed.tips). Ask questions. But don't just complain: I think we all need some time of active learning to un-learn the bad habits that big tech companies foisted upon us. 
+Yes, I agree. Read [fedi.tips](https://fedi.tips/how-to-use-mastodon-and-the-fediverse-basic-tips/). Ask questions. But don't just complain: I think we all need some time of active learning to un-learn the bad habits that big tech companies foisted upon us. 
 
 Will it ever gain mass traction? Maybe not. But maybe, just maybe, we don't need that.
 
