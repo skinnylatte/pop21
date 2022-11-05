@@ -12,7 +12,7 @@ url: /2022-11-goodbye-twitter
 
 ---
 
-ALmost exactly 16 years ago I signed up for Twitter, curious about what it might be. The social web was so young then. I was still in university. The hashtag had barely been invented. Technology seemed like it might change the world, and I was excited to be a part of it.
+Almost exactly 16 years ago I signed up for Twitter, curious about what it might be. The social web was so young then. I was still in university. The hashtag had barely been invented. Technology seemed like it might change the world, and I was excited to be a part of it.
 
 16 years later, I am midway through my career in technology and I am starting to feel like.. a lot of this was a mistake. Walled gardens were a mistake. Trusting people who wanted to move fast and break things were a mistake. 
 
