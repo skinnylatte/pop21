@@ -1,13 +1,13 @@
 ---
-title: "America"
-date: 2022-06-02T15:01:02+08:00
+title: "America is the restaurant that gives me food poisoning."
+date: 2022-11-03T15:01:02+08:00
 draft: false
-description: 
+description: But I moved here anyway.
 tags: 
     - life
     - america
     - singapore
-url: 
+url: /2022-11-america
 
 ---
 
