@@ -26,7 +26,7 @@ This is how I am going to reboot my social media use.
 
 ### My Mastodon is my main
 
-I am @skinnylatte@mastodon.social on Mastodon. Mastodon is not for everyone. It needs a lot of improvements in UX and it needs to get better at explaining itself to less technical people. But I like what I see right now: if people were falling off the Twitter thermocline (and it feels like that in my own usage of Twitter, as I follow a lot of security and infra and general nerds who are typically at the forefront of the *bleeps and bloops* of computer work), I've seen a huge wave on Mastodon in the past week alone.
+I am @skinnylatte@mastodon.social on Mastodon. Mastodon is not for everyone. It needs a lot of improvements in UX and it needs to get better at explaining itself to less technical people. But I like what I see right now: [if people were falling off the Twitter thermocline](https://mastodon.social/@garius/109279394369832433) (and it feels like that in my own usage of Twitter, as I follow a lot of security and infra and general nerds who are typically at the forefront of the *bleeps and bloops* of computer work), I've seen a huge wave on Mastodon in the past week alone.
 
 Where before, Mastodon felt lonely, the pace of adoption and follows and responses has picked up so much that it comes close to what I was experiencing on Twitter as a somewhat advanced user.
 
