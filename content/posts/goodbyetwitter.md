@@ -64,7 +64,7 @@ If you're as old as I am, practically deceased like the kids will say at the age
 
 I was able to keep all my blog content because I always had text files and never invested too much in a hosted platform. Everything run by someone else feels.. ephemeral. If it means something to you, make a copy. Preferably in plain text format. There will be ways to export content, there usually are, but you must have a copy first. If photos are your thing, don't just rely on Instagram to keep the compressed files. Keep your photos somewhere you can access. Make copies.
 
-#### It's too complicated
+### It's too complicated
 
 Yes, I agree. Read [fedi.tips](https://fedi.tips/how-to-use-mastodon-and-the-fediverse-basic-tips/). Ask questions. But don't just complain: I think we all need some time of active learning to un-learn the bad habits that big tech companies foisted upon us. 
 
