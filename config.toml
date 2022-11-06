@@ -40,6 +40,11 @@ url = "/tags"
 weight = 5
 
 [[params.social]]
+name = "Mastodon"
+icon = "triangle"
+url = "https://mastodon.social/@skinnylatte"
+
+[[params.social]]
 name = "Github"
 icon = "github"
 url = "https://github.com/skinnylatte"
