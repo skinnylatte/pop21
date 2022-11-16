@@ -42,7 +42,7 @@ weight = 5
 [[params.social]]
 name = "Mastodon"
 icon = "triangle"
-url = "https://mastodon.social/@skinnylatte"
+url = "https://hachyderm.io/@skinnylatte"
 
 [[params.social]]
 name = "Github"
