@@ -6,6 +6,10 @@ description: What a post-Twitter world means to me. What happens if I focus on i
 tags: 
     - life
     - twitter
+    - mastodon
+    - fediverse
+    - activitypub
+    - decentralized
     - internet
     - web
 url: /2022-11-goodbye-twitter
@@ -26,19 +30,21 @@ This is how I am going to reboot my social media use.
 
 ### My Mastodon is my main
 
-I am @skinnylatte@mastodon.social on Mastodon. Mastodon is not for everyone. It needs a lot of improvements in UX and it needs to get better at explaining itself to less technical people. But I like what I see right now: [if people were falling off the Twitter thermocline](https://mastodon.social/@garius/109279394369832433) (and it feels like that in my own usage of Twitter, as I follow a lot of security and infra and general nerds who are typically at the forefront of the *bleeps and bloops* of computer work), I've seen a huge wave on Mastodon in the past week alone.
+I am ~~@skinnylatte@mastodon.social~~ [@skinnylatte@hachyderm.io](https://hachyderm.io/@skinnylatte)  on Mastodon. Mastodon is not for everyone. It needs a lot of improvements in UX and it needs to get better at explaining itself to less technical people. But I like what I see right now: [if people were falling off the Twitter thermocline](https://mastodon.social/@garius/109279394369832433) (and it feels like that in my own usage of Twitter, as I follow a lot of security and infra and general nerds who are typically at the forefront of the *bleeps and bloops* of computer work), I've seen a huge wave on Mastodon in the past week alone.
 
 Where before, Mastodon felt lonely, the pace of adoption and follows and responses has picked up so much that it comes close to what I was experiencing on Twitter as a somewhat advanced user.
 
-### Cross-post one way to Twitter only
+_(Edit. 2 December 2022: I have deactivated Twitter completely. The antisemitism, transphobia and all-around incel-town nature of that community is not something I want to participate in. I downloaded a copy of my archives and I will be hosting a mirror of it here, quite soon. So not all past posts have been lost. BUt I refuse to have any content that one of the people I dislike the most in the world can use for advertising or other purposes. This post has been lightly edited to reflect this change.)_
 
-I use [moa.party](https://moa.party) to cross-post. Posting on one platform lets you automatically post the same thing to the other. 
+~~### Cross-post one way to Twitter only~~
 
-I do this solely for archival, and for my 41K Twitter followers to know that I am somewhere else. 
+~~I use [moa.party](https://moa.party) to cross-post. Posting on one platform lets you automatically post the same thing to the other.~~ 
 
-I do not intend to originate posts from Twitter after 31 December 2022, but I may sometimes respond to tweets.
+~~I do this solely for archival, and for my 41K Twitter followers to know that I am somewhere else.~~ 
 
-For all intents and purposes, my Twitter account will be there, but in cryogenic sleep.
+~~I do not intend to originate posts from Twitter after 31 December 2022, but I may sometimes respond to tweets.~~
+
+~~For all intents and purposes, my Twitter account will be there, but in cryogenic sleep.~~
 
 ### Write more on here
 
