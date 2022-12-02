@@ -6,6 +6,10 @@ description: What a post-Twitter world means to me. What happens if I focus on i
 tags: 
     - life
     - twitter
+    - mastodon
+    - fediverse
+    - activitypub
+    - decentralized
     - internet
     - web
 url: /2022-11-goodbye-twitter
@@ -30,7 +34,7 @@ I am ~~@skinnylatte@mastodon.social~~ [@skinnylatte@hachyderm.io](https://hachyd
 
 Where before, Mastodon felt lonely, the pace of adoption and follows and responses has picked up so much that it comes close to what I was experiencing on Twitter as a somewhat advanced user.
 
-(Edit. 2 December 2022: I have deactivated Twitter completely. The antisemitism, transphobia and all-around incel-town nature of that community is not something I want to participate in. I downloaded a copy of my archives and I will be hosting a mirror of it here, quite soon. So not all past posts have been lost. BUt I refuse to have any content that one of the people I dislike the most in the world can use for advertising or other purposes. This post has been lightly edited to reflect this change.)
+_(Edit. 2 December 2022: I have deactivated Twitter completely. The antisemitism, transphobia and all-around incel-town nature of that community is not something I want to participate in. I downloaded a copy of my archives and I will be hosting a mirror of it here, quite soon. So not all past posts have been lost. BUt I refuse to have any content that one of the people I dislike the most in the world can use for advertising or other purposes. This post has been lightly edited to reflect this change.)_
 
 ~~### Cross-post one way to Twitter only~~
 
