@@ -32,15 +32,15 @@ Where before, Mastodon felt lonely, the pace of adoption and follows and respons
 
 (Edit. 2 December 2022: I have deactivated Twitter completely. The antisemitism, transphobia and all-around incel-town nature of that community is not something I want to participate in. I downloaded a copy of my archives and I will be hosting a mirror of it here, quite soon. So not all past posts have been lost. BUt I refuse to have any content that one of the people I dislike the most in the world can use for advertising or other purposes. This post has been lightly edited to reflect this change.)
 
-~### Cross-post one way to Twitter only~
+~~### Cross-post one way to Twitter only~~
 
-~I use [moa.party](https://moa.party) to cross-post. Posting on one platform lets you automatically post the same thing to the other.~ 
+~~I use [moa.party](https://moa.party) to cross-post. Posting on one platform lets you automatically post the same thing to the other.~~ 
 
-~I do this solely for archival, and for my 41K Twitter followers to know that I am somewhere else.~ 
+~~I do this solely for archival, and for my 41K Twitter followers to know that I am somewhere else.~~ 
 
-~I do not intend to originate posts from Twitter after 31 December 2022, but I may sometimes respond to tweets.~
+~~I do not intend to originate posts from Twitter after 31 December 2022, but I may sometimes respond to tweets.~~
 
-~For all intents and purposes, my Twitter account will be there, but in cryogenic sleep.~
+~~For all intents and purposes, my Twitter account will be there, but in cryogenic sleep.~~
 
 ### Write more on here
 
