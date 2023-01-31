@@ -16,7 +16,7 @@ Maybe some day, I'll think of the years between 2009 and 2019 as a lost decade. 
 
 Things are different now.
 
-When I was least expecting it, king tides subsided and became gentle lakes. The weather is rather frosty or humid, it's mostly even-tempered, and cool. I have time to sleep, exercise, meditate, and eat well: I am no longer scurrying from here to there. I know how lucky I am.
+When I was least expecting it, king tides subsided and became gentle lakes. The weather is rarely frosty or humid, it's mostly even-tempered, and cool. I have time to sleep, exercise, meditate, and eat well: I am no longer scurrying from here to there. I know how lucky I am.
 
 I got to recover from a chronic illness that not only took away my physical abilities for a long while, I also got to bounce back mentally from it. From insomniac mania, I now have a well-rested, even-keeled, decently-paced life (and personality). When I think back to those years, to 2012 and right after especially, I wonder how anyone ever kept up with me. I barely did. (Autoimmune diseases are a bitch. Don't let anyone tell you otherwise.)
 
