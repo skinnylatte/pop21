@@ -7,7 +7,7 @@ url: "about"
 
 ### About
 
-Hi, my name is Adrianna. I am a tinkerer / product manager / former founder / professional worrier who has been building things on the web for the past 21 years. In 2003, I launched Popagandhi, a blog (_blawggggg_... still a weird word after all these years) and it, as well as I, have taken on many iterations through many different lives since.
+Hi, my name is Adrianna. I am the director ofproduct management for the City of San Francisco's digital team. This means that I get to work on a bunch of really fun and challenging things professionally. I have been building things on the web for the past 21 years. In 2003, I launched Popagandhi, and it, as well as I, have taken on many iterations through many different lives since.
 
 From high school student coming out of the closet in turn-of-the-millennia Singapore, to a young queer person fumbling her way through the world, this site has been with me through all of it.
 
@@ -19,4 +19,6 @@ Lately, I have been preoccupied with thinking about the world in the Before Time
 
 From time to time, I take [photos](https://popagandhi.com/photos). Like when it's an [especially odd day](https://popagandhi.com/posts/2020-09-09-the-day-the-sky-turned-orange/).
 
-Even though I'm on [Twitter](https://twitter.com/skinnylatte) most of the day, sometimes I'll just be here, writing in plain text, like it's 2003 all over again.
+I am no longer on [Twitter](https://twitter.com/skinnylatte). And you shouldn't, too. I am on [Mastodon](https://hachyderm.io/@skinnylatte), and I am here, in plain text, like it's 2003 all over again.
+
+I am also on [Pixelfed](https://photos.cookiefan.club/i/web/profile/511405918373056513), which is an ethical alternative to Instagram, that I self-host; and I am also posting regularly to my [photography and music microblog over there](https://micro.popagandhi.com). If you want to read more about what I do creatively, [have a look](https://popagandhi.com/posts/2023-01-feeding-my-soul/).
