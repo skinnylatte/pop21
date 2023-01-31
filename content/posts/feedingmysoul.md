@@ -12,7 +12,7 @@ url: /feeding-my-soul
 
 ---
 
-Maybe some day, I'll think of the years between 2009 and 2019 as a lost decade. It as a decade of development, when I came of age, when I left home, when I made my home in so many different places in the world, where I tried on different ways of being, as if they were seasonal coats, or swimwear. 
+Maybe some day, I'll think of the years between 2009 and 2019 as a lost decade. It was a decade of development, when I came of age, when I left home, when I made my home in so many different places in the world, where I tried on different ways of being, as if they were seasonal coats, or swimwear. 
 
 Things are different now.
 
