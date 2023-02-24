@@ -2,7 +2,7 @@
 title: "I Now Have an Attention Span"
 date: 2023-02-23T16:00:07-08:00
 draft: false
-description: 
+description: Some thoughts on disability, autism, and learning to ask for help.
 tags: 
     - life
     - adhd
