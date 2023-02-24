@@ -32,7 +32,7 @@ Why is it that people were happy to just say 'oh, that person has the attention 
 
 It seriously impeded my way of life. It got in the way of living, doing, existing. I could not remember anything. I could not wake up for important tests, meetings, interviews. I could not even reliably put a piece of paper in a folder, keep it there, and remember that I had ever done it. 
 
-These days, they call it 'executive dysfunction'. But that's a nice term for 'it's your fault until you find a name for it and figure out how to fix it, and get mad that it coudl have been a reasonably easy fix'.
+These days, they call it 'executive dysfunction'. But that's a nice term for 'it's your fault until you find a name for it and figure out how to fix it, and get mad that it could have been a reasonably easy fix'.
 
 Oh, I also have ADHD. But I'm not sure which came first. Am I unable to focus on things because I didn't sleep properly for years, had a severely wonky thyroid gland, or is it a bit of everything? I may never know.
 
