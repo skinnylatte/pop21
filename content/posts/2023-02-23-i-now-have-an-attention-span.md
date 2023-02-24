@@ -46,7 +46,7 @@ I can figure out what I want to do and actually do it!
 
 I'm relearning CSS and JavaScript right now, because I feel like I did not have enough of an attention span or focus back when I first learned it. It's also useful because so much has changed since—like CSS is actually fun now!—that I don't mind.
 
-I'm learning that I am able to sustain a creative pursuit on the side. I have spent a gargantuan amount of effort consolidating my hard drives from Singapore and Malaysia and the US and everywhere in between that, for the first time I believe I have all the writing, photography, video files, that I ever created, in one place. And actually be able to find them. 
+I'm learning that I am able to [sustain a creative pursuit on the side](https://micro.popagandhi.com). I have spent a gargantuan amount of effort consolidating my hard drives from Singapore and Malaysia and the US and everywhere in between that, for the first time I believe I have all the writing, photography, video files, that I ever created, in one place. And actually be able to find them. This was not something I was remotely capable of doing at any point in the past. If something was not immediately before me, it did not exist. I have written entire books that I have forgotten I have ever written!
 
 I can even shoot, develop and scan film on a regular basis, something I was never able to do! (I could not even remember what film I used, or where anything was, until now.)
 
