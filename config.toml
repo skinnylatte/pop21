@@ -30,13 +30,13 @@ url = "/about"
 weight = 3
 
 [[menu.main]]
-name = "Photo Diary"
-url = "/photos"
+name = "Photos"
+url = "https://micro.popagandhi"
 weight = 4
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
+name = "Subscribe to my food newsletter"
+url = "/bae"
 weight = 5
 
 [[params.social]]
@@ -54,5 +54,3 @@ name = "RSS"
 icon = "rss"
 url = "/index.xml"
 
-[taxonomies]
-   tag = "tags"
