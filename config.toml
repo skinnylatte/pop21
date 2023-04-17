@@ -31,12 +31,12 @@ weight = 3
 
 [[menu.main]]
 name = "Photos"
-url = "https://micro.popagandhi"
+url = "https://micro.popagandhi.com"
 weight = 4
 
 [[menu.main]]
 name = "Subscribe to my food newsletter"
-url = "/bae"
+url = "https://buttondown.email/skinnylatte"
 weight = 5
 
 [[params.social]]
