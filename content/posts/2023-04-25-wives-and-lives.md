@@ -17,7 +17,7 @@ description: Some emotional thoughts on what it means to be a queer immigrant in
 
 *Some thoughts on being a gaysian immigrant to California* 
 
-[![A scan of a black and white photograph of some Chinese calligraphy writing on a wall in a Chinese restaurant in Oakland, California](https://popagandhi.com/img/20230425_kodak5222_minolta7sii_apiqwtc.jpg)]
+[! A scan of a black and white photograph of some Chinese calligraphy writing on a wall in a Chinese restaurant in Oakland, California](https://popagandhi.com/img/20230425_kodak5222_minolta7sii_apiqwtc.jpg)]
 
 Two weeks ago, I helped to plan and organize a Lunar New Year dinner for 120 queer and trans Asian people. It's a tradition that has been around for among as long as I've been alive: the annual APIQWTC Banquet. 
 
@@ -51,10 +51,12 @@ At the event, I met many people who were also immigrants from Southeast Asia lik
 
 In that regard, I have it a touch easier. I came here for a high paid tech job, I came here when California is already one of the easiest places to live in the world for a queer person, and I was able to bring my spouse with me. But some days are harder than others. Like many of these aunties, I am dealing with my first decade blues: does it ever get better? Why did I give up my life of privileges and comforts in Singapore for.. America? Unlike many other immigrants, I did not come here for economic or material improvements. I came here for far more abstract things, like 'my rights', but also for very concrete things like, 'my wife and I need a third country that recognizes our marriage so that we can actually live together somewhere, anywhere.' 
 
-A few months ago, I saw this image again: it was an image of Singaporean and Malaysian queer elders in what is clearly San Francisco, proably a decade or more before my time. I reached out to a few of them in the photo to ask: what was your life like? What did you struggle with? What's your life like now? Many of them said the same thing: the first couple of years are very, very hard. Some days you wonder if you will ever truly feel at home here. But, they said, we now have wives and lives, and that's more than we could have expected of our lives in Singapore and Malaysia. 
+[! A scan of a photo that says SAMBAL: Singapore and Malaysian Bisexuals and Lesbians](https://popagandhi.com/img/SAMBAL002.jpg)
+
+A few months ago, I saw this image again: it was an image of Singaporean and Malaysian queer elders in what is clearly San Francisco, in 1993. I reached out to a few of them in the photo to ask: what was your life like? What did you struggle with? What's your life like now? Many of them said the same thing: the first couple of years are very, very hard. Some days you wonder if you will ever truly feel at home here. But, they said, we now have wives and lives, and that's more than we could have expected of our lives in Singapore and Malaysia. 
 
 *Wives and lives*. I have that too, but I also have had far less time than them in California. I still have one foot in the door; I am still not totally removed from existing in a space where I've had to hide myself, and my life. Even the most hyper-visible ways of being queer back home are just standard, everyday ways here. I still don't have a clear idea of what   
 
 One of them said, my wife is organizing this banquet, why don't you get involved? And so I did. I still don't have the answers, but I think I am starting to have the inkling of an idea.
 
-(Photo taken on a Minolta Hi-Matic 7S II, shot on Kodak 5222 film, self-developed in Rodinal 1+50 at ISO 800, and scanned on Plustek 8200i. For more film photography shenanigans, check out my [film photo blog](https://micro.popagandhi.com)
+(Photo taken on a Minolta Hi-Matic 7S II, shot on Kodak 5222 film, self-developed in Rodinal 1+50 at ISO 800, and scanned on Plustek 8200i. For more film photography shenanigans, check out my [film photo blog](https://micro.popagandhi.com))
