@@ -42,7 +42,7 @@ I had no idea what it meant to be in a committed relationship. Or what it meant 
 
 So when I found myself surrounded by a hundred dancing Asian queer aunties, and a few other peers and younger people, I was mad.
 
-I was mad to not have been exposed to the idea that I too, can some day be a dancing Chinese auntie in my 60s or 70s, who needs to be held up by my kid while I am prancing about on stage singing Teresa Teng songs at a karaoke in Oakland. I was mad that I never got to see people like M and her partner, an older interracial East- and South Asian couple, like Sabrena and I: with their children babbling about in several Chinese and Indian languages, the way it might look for us if we decided to have children some day. 
+I was mad to not have been exposed to the idea that I too, can some day be a dancing Chinese auntie in my 60s, prancing about on stage singing Teresa Teng songs at a karaoke in Oakland. I was mad that I never got to see people like M and her partner, an older interracial East- and South Asian couple, like Sabrena and I: with their children babbling about in several languages, the way it might look for us if we decided to have children some day. 
 
 Most of all, I was mad to know that this life wasn't possible for me back home. Not by a long stretch. I hardly knew many queer people in my mid 20s, and I definitely did not know more that hundreds of queer people above the age of 60 existed. Nor did I have the chance to meet them in a multi-generational setting, the way I did here.
 
