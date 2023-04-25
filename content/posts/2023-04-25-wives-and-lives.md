@@ -53,8 +53,10 @@ In that regard, I have it a touch easier. I came here for a high paid tech job, 
 
 A few months ago, I saw this image again: it was an image of Singaporean and Malaysian queer elders in what is clearly San Francisco, in 1993. I reached out to a few of them in the photo to ask: what was your life like? What did you struggle with? What's your life like now? Many of them said the same thing: the first couple of years are very, very hard. Some days you wonder if you will ever truly feel at home here. But, they said, we now have wives and lives, and that's more than we could have expected of our lives in Singapore and Malaysia. 
 
-*Wives and lives*. I have that too, but I also have had far less time than them in California. I still have one foot in the door; I am still not totally removed from existing in a space where I've had to hide myself, and my life. Even the most hyper-visible ways of being queer back home are just standard, everyday ways here. I still don't have a clear idea of what   
+*Wives and lives*. I have that too, but I also have had far less time than them in California. I still have one foot in the door; I am still not totally removed from existing in a space where I've had to hide myself, and my life. Even the most hyper-visible ways of being queer back home are just standard, everyday ways here. 
 
 One of them said, my wife is organizing this banquet, why don't you get involved? And so I did. I still don't have the answers, but I think I am starting to have the inkling of an idea.
+
+I think it looks like dancing on stage at a Chinese restaurant singing a Teresa Teng song. I think it could be carrying an infant babbling in three languages. I think it might be nice to have the ability to work with younger Asian queer immigrants 25 years from now, who will hopefully have an easier time than all of us did. I think it could be fun. I think I can be anyone I want to be.
 
 (Photo taken on a Minolta Hi-Matic 7S II, shot on Kodak 5222 film, self-developed in Rodinal 1+50 at ISO 800, and scanned on Plustek 8200i. For more film photography shenanigans, check out my [film photo blog](https://micro.popagandhi.com))
