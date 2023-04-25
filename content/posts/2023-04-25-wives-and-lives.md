@@ -57,3 +57,4 @@ A few months ago, I saw this image again: it was an image of Singaporean and Mal
 
 One of them said, my wife is organizing this banquet, why don't you get involved? And so I did. I still don't have the answers, but I think I am starting to have the inkling of an idea.
 
+(Photo taken on a Minolta Hi-Matic 7S II, shot on Kodak 5222 film, self-developed in Rodinal 1+50 at ISO 800, and scanned on Plustek 8200i. For more film photography shenanigans, check out my [film photo blog]https://micro.popagandhi.com)
