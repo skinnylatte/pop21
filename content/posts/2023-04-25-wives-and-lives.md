@@ -58,10 +58,6 @@ A few months ago, I saw this image again: it was an image of Singaporean and Mal
 
 One of them said, my wife is organizing this banquet, why don't you get involved? And so I did. I still don't have the answers, but I think I am starting to have the inkling of an idea.
 
-I think it looks like dancing on stage at a Chinese restaurant singing a Teresa Teng song. I think it could be carrying an infant babbling in three languages. I think it might be nice to have the ability to work with younger Asian queer immigrants 25 years from now, who will hopefully have an easier time than all of us did. I think it could be fun. I think I can be anyone I want to be.
-
-(Photo taken on a Minolta Hi-Matic 7S II, shot on Kodak 5222 film, self-developed in Rodinal 1+50 at ISO 800, and scanned on Plustek 8200i. For more film photography shenanigans, check out my [film photo blog](https://micro.popagandhi.com))
-
 I think it looks like dancing on stage at a Chinese restaurant singing a Teresa Teng song. I think it could be carrying an infant babbling in three languages. I think it might be nice to have the ability to work with younger Asian queer immigrants 25 years from now, who will hopefully have an easier time than all of us did. I think it could be fun. I think I have a life ahead of me of queer joy that I can celebrate.
 
 I can be anyone I want to be. I did not always know that.
