@@ -18,7 +18,7 @@ description: Some emotional thoughts on what it means to be a queer immigrant in
 
 ![A scan of a black and white photograph of some Chinese calligraphy writing on a wall in a Chinese restaurant in Oakland, California](https://popagandhi.com/img/20230425_kodak5222_minolta7sii_apiqwtc.jpg)
 
-Two weeks ago, I helped to plan and organize a Lunar New Year dinner for 120 queer and trans Asian people. It's a tradition that has been around for among as long as I've been alive: the annual APIQWTC Banquet. 
+Two weeks ago, I helped to plan and organize a Lunar New Year dinner for 120 queer and trans Asian people. It's a tradition that has been around for as long as I've been alive: the annual APIQWTC Banquet. 
 
 Despite its mouthful of a name (much easier if you read it as API CUTESY Banquet), it was an event that left me feeling extremely raw and emotional at the end of it.
 
