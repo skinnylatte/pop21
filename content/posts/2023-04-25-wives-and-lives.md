@@ -5,7 +5,7 @@ draft: false
 description: 
 tags: 
     - lgbtq
-    - lifeandlovee
+    - lifeandlove
     - california 
     - immigrant 
     - singapore
@@ -14,7 +14,6 @@ url: /posts/2023-04-wives-and-lives
 description: Some emotional thoughts on what it means to be a queer immigrant in California, now that I know what I know.
 
 ---
-
 *Some thoughts on being a gaysian immigrant to California* 
 
 ![A scan of a black and white photograph of some Chinese calligraphy writing on a wall in a Chinese restaurant in Oakland, California](https://popagandhi.com/img/20230425_kodak5222_minolta7sii_apiqwtc.jpg)
@@ -27,17 +26,19 @@ I could not identify why exactly.
 
 Could it be that these events—large format Chinese dinners I've only experienced in the context of societal rejection—were usually events I hated, events that were milestones I can never have because I was gay in a country that had not fully accepted it? I was never going to have the large Chinese wedding dinner. Even if I think those are horrible, it would have been nice to have known that was open to me. 
 
-Or they'd be a celebration of some kind of matriach or patriarch, the sort of thing where your same sex or trans partner was often excluded from, unless things were Very Serious and they had already graduated into the Don't Ask, Don't Tell territory. At some point, people get old and it becomes possible to welcome same sex partners into these events: when you're old enough that you're thoroughly de-sexualized, is my guess.
+Or they'd be a celebration of some kind of matriarch or patriarch, the sort of thing where your same sex or trans partner was often excluded from, unless things were Very Serious and they had already graduated into the Don't Ask, Don't Tell territory. At some point, people get old and it becomes possible to welcome same sex partners into these events: when you're old enough that you're thoroughly de-sexualized, is my guess.
 
-But there's more, beyond mere social acceptance and the idea that it's possible to have a good time, I keep coming around to the thought: if I had been to such an event, if I had known these people, when I was a teenager struggling with my feelings and my identity, my life would have been different. Visibliity in the media is important, and I already didn't really have that back then; but visibility in the form of knowing that it's possible to grow old, screw up, fall in love, get divorced, have children, or not, organize community events and be an advocate, or not, all of that would have been powerful visual indicators to me that it's possible to have any kind of life. That you're going to have a life at all.
+But there's more, beyond mere social acceptance and the idea that it's possible to have a good time, I keep coming around to the thought: if I had been to such an event, if I had known these people, when I was a teenager struggling with my feelings and my identity, my life would have been different. Visibility in the media is important, and I already didn't really have that back then; but visibility in the form of knowing that it's possible to grow old, screw up, fall in love, get divorced, have children, or not, organize community events and be an advocate, or not, all of that would have been powerful visual indicators to me that it's possible to have any kind of life. That you're going to have a life at all.
 
 Instead, growing up mainly among an older generation that was largely forced into the closet—and I do have strong memories of going to gay bars for the first time as a teenager that had just come of age, and seeing police raids rounding up gay men for 'vice', more than once—where the only people I knew to be gay or queer for sure were the advocates who were willing to put themselves out there to fight for our rights, document our stories, to tell our homophobic society that we exist. Those people served a purpose and they fought bravely. But I did not always want to be an activist. Even though eventually, I guess I sort of did.
 
-By simply refusing to pretend not to be straight, at some point I found myself thrust into a position of hypervisiblity in the queer community in Singapore. I did not want to be that person. I simply wanted to write about the heartbreak I had endured as a teenager: I was just the queer equivalent of a teenager anywhere Live-Journaliing her heartbreak. But by not changing the pronouns of the person who had apparently broken my heart, I became, I suppose, a queer activist. 
+By simply refusing to pretend not to be straight, at some point I found myself thrust into a position of hypervisiblity in the queer community in Singapore. I did not want to be that person. I simply wanted to write about the heartbreak I had endured as a teenager: I was just the queer equivalent of a teenager anywhere Live-Journaling her heartbreak. But by not changing the pronouns of the person who had apparently broken my heart, I became, I suppose, a queer activist. 
 
-I did not know any queer couples or families until I was well into my early 20s. Other than the women I dated, and let's be frank we were a mess, with no template or model or idea of what any of this was going to become. Information about queer people came into Singapore like a trickle: there were the gender studies books at Borders bookstore, the 'are they or aren't they' gay-guessing games of trying to figure out which celebrities were queer women (hint: it was mostly Angelina Jolie, at that time), I didn't really know what it meant to be queer. And I think I was already an extremely well-connected teenager for my time. (For a time, I ran a queer DVD lending library; I'd distribute movies and documentaries to other queer teens in my high school and elsewhere.)
+I did not know any queer couples or families until I was well into my early 20s. Other than the women I dated, and let's be frank, we were a mess, with no template or model or idea of what any of this was going to become. Information about queer people came into Singapore like a trickle: there were the gender studies books at Borders bookstore, the 'are they or aren't they' gay-guessing games of trying to figure out which celebrities were queer women (hint: it was mostly Angelina Jolie, at that time), I didn't really know what it meant to be queer. And I think I was already an extremely well-connected teenager for my time. (For a time, I ran a queer DVD lending library; I'd distribute movies and documentaries to other queer teens in my high school and elsewhere.)
 
-But I had no idea what it meant to be in a committed relationship. Or what it meant to not be in one. I didn't know what my life was going to be. It was all a big blank, other than 'I guess I will have to go live overseas some day'. Even though Singapore has, anecdotally, a fairly large queer population, information about queerness is still suppressed by the state. We are still not allowed to see, for example, a reality TV show of a gay couple having their house revamped. It would be against the rules: you simply can't portray queer people in a non-negative manner. 
+I did not know what it meant to be a queer adult.
+
+I had no idea what it meant to be in a committed relationship. Or what it meant to not be in one. I didn't know what my life was going to be. It was all a big blank, other than 'I guess I will have to go live overseas some day'. Even though Singapore has, anecdotally, a fairly large queer population, information about queerness is still suppressed by the state. We are still not allowed to see, for example, a reality TV show of a gay couple having their house revamped. It would be against the rules: you simply can't portray queer people in a non-negative manner. 
 
 So when I found myself surrounded by a hundred dancing Asian queer aunties, and a few other peers and younger people, I was mad.
 
@@ -58,5 +59,11 @@ A few months ago, I saw this image again: it was an image of Singaporean and Mal
 One of them said, my wife is organizing this banquet, why don't you get involved? And so I did. I still don't have the answers, but I think I am starting to have the inkling of an idea.
 
 I think it looks like dancing on stage at a Chinese restaurant singing a Teresa Teng song. I think it could be carrying an infant babbling in three languages. I think it might be nice to have the ability to work with younger Asian queer immigrants 25 years from now, who will hopefully have an easier time than all of us did. I think it could be fun. I think I can be anyone I want to be.
+
+(Photo taken on a Minolta Hi-Matic 7S II, shot on Kodak 5222 film, self-developed in Rodinal 1+50 at ISO 800, and scanned on Plustek 8200i. For more film photography shenanigans, check out my [film photo blog](https://micro.popagandhi.com))
+
+I think it looks like dancing on stage at a Chinese restaurant singing a Teresa Teng song. I think it could be carrying an infant babbling in three languages. I think it might be nice to have the ability to work with younger Asian queer immigrants 25 years from now, who will hopefully have an easier time than all of us did. I think it could be fun. I think I have a life ahead of me of queer joy that I can celebrate.
+
+I can be anyone I want to be. I did not always know that.
 
 (Photo taken on a Minolta Hi-Matic 7S II, shot on Kodak 5222 film, self-developed in Rodinal 1+50 at ISO 800, and scanned on Plustek 8200i. For more film photography shenanigans, check out my [film photo blog](https://micro.popagandhi.com))
