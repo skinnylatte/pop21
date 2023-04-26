@@ -44,7 +44,7 @@ So when I found myself surrounded by a hundred dancing Asian queer aunties, and 
 
 I was mad to not have been exposed to the idea that I too, can some day be a dancing Chinese auntie in my 60s, prancing about on stage singing Teresa Teng songs at a karaoke in Oakland. I was mad that I never got to see people like M and her partner, an older interracial East- and South Asian couple, like Sabrena and I: with their children babbling about in several languages, the way it might look for us if we decided to have children some day. 
 
-Most of all, I was mad to know that this life wasn't possible for me back home. Not by a long stretch. I hardly knew many queer people in my mid 20s, and I definitely did not know more than hundreds of queer people above the age of 60 existed. Nor did I have the chance to meet them in a multi-generational setting, the way I did here.
+Most of all, I was mad to know that this life wasn't possible for me back home. Not by a long stretch. I hardly knew many queer people in my mid 20s, and I definitely did not know that hundreds of queer people above the age of 60 existed. Nor did I have the chance to meet them in a multi-generational setting, the way I did here.
 
 At the event, I met many people who were also immigrants from Southeast Asia like me. The first decade was hard, they said. They had to figure out how to exist in the US, and it was also at a time when the US didn't even have the laws it now does for same sex marriage. Many of them wouldn't have been able to move here or stay on here even if they had American spouses: not until Edith Windsor did us all a favor and defeated the Defense of Marriage Act, and enabled same sex marriage and other rights at the federal level. 
 
