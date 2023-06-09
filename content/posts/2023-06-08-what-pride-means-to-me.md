@@ -2,7 +2,7 @@
 title: "What Pride Means to Me"
 date: 2023-06-08T19:11:11-07:00
 draft: false 
-description: some thoughts on Pride 2023 and a very gay life.
+description: A few thoughts on Pride 2023 and my very gay life so far.
 tags: 
     - life
     - lgbt
