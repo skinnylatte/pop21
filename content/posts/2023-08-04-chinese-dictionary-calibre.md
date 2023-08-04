@@ -12,7 +12,6 @@ tags:
 url: /posts/2023-08-04-chinese-dictionary
 
 ---
-Adding a Simplified Chinese dictionary to Calibre
 
 I am trying to read more Chinese books. My Mandarin school teachers are probably having the last laugh, but I am genuinely interested in some of the fiction in the Sinosphere these days. Unfortunately my school-time Mandarin class experience was so poor (old school, traditional, not fun or engaging) that I feel like I am starting from scratch.
 
@@ -40,9 +39,9 @@ Some example photos:
 
 *Click add source, then paste the url `https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb={word}` into the box.*
 
-![Screenshot of Calibre and how to add a Chinese dictionary step 3](/img/20230804-chinesedictionary1.png "Screenshot of Calibre and how to add a Chinese dictionary step 3")
+![Screenshot of Calibre and how to add a Chinese dictionary step 3](/img/20230804-chinesedictionary3.png "Screenshot of Calibre and how to add a Chinese dictionary step 3")
 
 *If all goes well, you should now see the definitions from the Chinese dictionary.*
 
-
+Happy reading!
 
