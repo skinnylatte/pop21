@@ -12,7 +12,7 @@ url: /posts/how-to-apply-for-a-singapore-visa-for-your-friend
 ---
 Citizens of some countries need a visa to enter Singapore. If you have friends or family that belong to those countries, you can do them a huge favor by applying as a local contact.
 
-As long as you are a Singapore citizen or Singapore PR with SingPass, or director of a Singapore-registered business (with access to CorpPass), you can help your friend get a visa. Please make sure that you actually know this person!
+As long as you are a Singapore citizen or Singapore PR with SingPass, or director of a Singapore-registered business, you can help your friend get a visa. Please make sure that you actually know this person!
 
 I only do this for people I know.
 
@@ -40,5 +40,5 @@ So far, I have applied for friends from many countries and I have not received a
 Please refer to ICA's own documents for screenshots and more explanation for each step. These are all PDF files:
 
 - [For local contact](https://www.ica.gov.sg/docs/default-source/ica/files/gc_usermanual_ip_save_singpass.pdf?sfvrsn=e05edc6a_24) (individual user with SingPass)
-- [For local business sponsor](https://www.ica.gov.sg/docs/default-source/ica/files/gc_usermanual_ip_save_corppass.pdf?sfvrsn=abca7037_22) (corporate user with CorpPass)
+- [For local business sponsor](https://www.ica.gov.sg/docs/default-source/ica/files/gc_usermanual_ip_save_corppass.pdf?sfvrsn=abca7037_22) (corporate user)
 - [How to apply for a family](https://www.ica.gov.sg/docs/default-source/ica/files/save-pub-user-guide-for-family-visa-application.pdf?sfvrsn=fd719d5_18) 
