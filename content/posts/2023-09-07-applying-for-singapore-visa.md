@@ -33,4 +33,12 @@ Save the application as a PDF. It will take 3 working days to receive a response
 
 You can look up the status of your visa application [here](https://eservices.ica.gov.sg/ipsave/index.xhtml).
 
-So far, I have applied for friends from many countries and I have not received a single rejection. 
+So far, I have applied for friends from many countries and I have not received a single rejection.
+
+### More resources
+
+Please refer to ICA's own documents for screenshots and more explanation for each step. These are all PDF files:
+
+- [For local contact](https://www.ica.gov.sg/docs/default-source/ica/files/gc_usermanual_ip_save_singpass.pdf?sfvrsn=e05edc6a_24) (individual user with SingPass)
+- [For local business sponsor](https://www.ica.gov.sg/docs/default-source/ica/files/gc_usermanual_ip_save_corppass.pdf?sfvrsn=abca7037_22) (corporate user with CorpPass)
+- [How to apply for a family](https://www.ica.gov.sg/docs/default-source/ica/files/save-pub-user-guide-for-family-visa-application.pdf?sfvrsn=fd719d5_18) 
