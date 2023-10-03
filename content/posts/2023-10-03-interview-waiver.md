@@ -13,7 +13,7 @@ url: /posts/interview-waiver-experience
 
 ---
 
-I've learned a few new things since I last posted about how other Singaporeans can apply for, and receive, the H1-B1 visa.
+I've learned a few new things [since I last posted](https://popagandhi.com/posts/2023-09-06-how-to-get-a-visa/) about how other Singaporeans can apply for, and receive, the H1-B1 visa.
 
 In renewing my visa in Singapore this September, I opted for the new-ish interview waiver process (available since 2021).
 
