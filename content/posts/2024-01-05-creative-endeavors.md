@@ -1,7 +1,7 @@
 ---
 title: "A Year of Creative Endeavors"
 date: 2024-01-05T15:17:46-08:00
-draft: true
+draft: false
 description: 
 tags: 
     - life
