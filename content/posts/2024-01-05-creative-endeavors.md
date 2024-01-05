@@ -2,7 +2,7 @@
 title: "A Year of Creative Endeavors"
 date: 2024-01-05T15:17:46-08:00
 draft: false
-description: 
+description: Some thoughts on a joyful year of making beautiful things.
 tags: 
     - life
     - creativity
