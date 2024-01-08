@@ -19,7 +19,7 @@ url: /posts/year-of-creative-endeavors
 6. I'm now reasonably confident in all of those things, enough for me to be able to print photos for art shows
 7. Not sure where I want to go with the printing thing, but it came in handy when I also, in the last two months of the year, started teaching photography at a community space in my neighborhood
 8. I gave disposable film cameras to participants (who are either unhoused or who mostly live in the supportive housing in the area), who then went forth and took photos of their lives and experiences
-9. A local film lab helped us develop the negatives, and I printed out a selection of participants' photos for a small private art show at the community space 
+9. A local film lab helped us develop the negatives, and I printed out a selection of participants' photos for a small private art show at the community space. I am now working on documenting and showing some of this work online and will share it when I am ready! 
 10. In developing a 'creative practice', I've come to see that the work I do in photography or in music (or even meditation) all have similar roots
 11. It's all about establishing a regular practice on something in my life where, maybe I won't ever be a professional, but it's something that I personally really enjoy and can learn from
 12. It's enough joy to be able to work on these hobbies that bring me peace and solitude
